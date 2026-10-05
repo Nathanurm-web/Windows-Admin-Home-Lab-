@@ -21,3 +21,11 @@ Built and administered a Windows 11 virtual machine using UTM to practice system
 - Configured folder permissions
 - Performed system administration tasks
 - Practiced troubleshooting with Windows tools
+
+## Lab Activities
+- Created local users including jsmith, mjones, csmoke, and nurm
+- Created HR_Users, IT_Admins, and Sales_Users security groups
+- Assigned users to department groups
+- Configured NTFS permissions for HR, IT, and Sales folders
+- Verified permissions using Windows Security settings
+- Performed user and group management with Command Prompt and PowerShell
